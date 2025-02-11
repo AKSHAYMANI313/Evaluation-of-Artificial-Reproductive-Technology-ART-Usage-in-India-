@@ -8,8 +8,6 @@ library(ggplot2) # For visualization
 library(corrplot) # For correlation matrix
 library(car)      # For regression diagnostics
 
-# Set working directory (modify as needed)
-# setwd("your_directory_path")
 
 # Load dataset
 data <- read_excel("health_data_dataset.xlsx")
